@@ -91,6 +91,7 @@ public class GameManager : MonoBehaviour
         multiText.text = "Multiplier: x" + currentMultiplier;
     }
 }
+```
 
 2) Activate/Make a Canvas displaying Score and Text
 3) In the fields of the GameManager Object’s Script, set Size to 3, element 0, 1, 2 are 4, 8, 16 respectively
