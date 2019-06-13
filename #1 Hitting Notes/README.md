@@ -49,7 +49,7 @@ public class ButtonController : MonoBehaviour
 5) Assign the correct sprite image in the field of the button controller script
 6) Assign the correct Key Input for each button for “Key To Press”
 7) Add an arrow to the scene and set up the correct orientations 
-> A trick for an arrow to be perfectly aligned to the button is to make the arrow a child of the button and set the X position to 0
+* A trick for an arrow to be perfectly aligned to the button is to make the arrow a child of the button and set the X position to 0
 8) Fix the layers by adding a new sorting layer for “Arrows” so the arrows appear before the buttons
 9) Create a Noteholder game object to hold all the arrows
 10) Add a new script called BeatScroller
