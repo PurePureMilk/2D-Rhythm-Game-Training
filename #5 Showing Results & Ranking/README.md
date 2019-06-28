@@ -1,4 +1,4 @@
-1.Update the GameManager Script with variables to keep track of the scores.
+1. Update the GameManager Script with variables to keep track of the scores.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -184,10 +184,10 @@ public class GameManager : MonoBehaviour
     }
 }
 ``
-2.Enable the Results GameObject under the Canvas
-3.Reference variable are written to refer to the text objects of the result screen
-4.Add the Results GameObject and Text Objects to the respective fields of the GameManager Script
-5.Add code to add if the music is not playing, then show results
-6.Add code to calculate rank
+2. Enable the Results GameObject under the Canvas
+3. Reference variable are written to refer to the text objects of the result screen
+4. Add the Results GameObject and Text Objects to the respective fields of the GameManager Script
+5. Add code to add if the music is not playing, then show results
+6. Add code to calculate rank
 
 
