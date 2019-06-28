@@ -184,6 +184,8 @@ public class GameManager : MonoBehaviour
     }
 }
 ``
+
+
 2. Enable the Results GameObject under the Canvas
 3. Reference variable are written to refer to the text objects of the result screen
 4. Add the Results GameObject and Text Objects to the respective fields of the GameManager Script
