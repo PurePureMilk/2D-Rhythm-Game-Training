@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-`
+```
 public class GameManager : MonoBehaviour
 {
     //this class is used to control when the music starts playing
@@ -183,8 +183,7 @@ public class GameManager : MonoBehaviour
         missedHits++;
     }
 }
-`
-
+```
 
 2. Enable the Results GameObject under the Canvas
 3. Reference variable are written to refer to the text objects of the result screen
