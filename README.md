@@ -1,6 +1,6 @@
 # How To Make a Rhythm Game (Practice)
 
-This repo contain notes on how to follow this unity tutorial: https://youtu.be/cZzf1FQQFA0
+This repo contain notes on how to follow this unity tutorial and ALL CREDITS GOES TO THIS: https://youtu.be/cZzf1FQQFA0
 
 The unity packages are only used if we want to go back to a certain 
 feature without having additional features from the later versions of the project.
