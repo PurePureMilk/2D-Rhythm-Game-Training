@@ -1,4 +1,4 @@
-# 2D-Rhythm-Game-Training (Practice Journal)
+# How To Make a Rhythm Game (Practice)
 
 This repo contain notes on how to follow this unity tutorial: https://youtu.be/cZzf1FQQFA0
 
@@ -7,3 +7,4 @@ feature without having additional features from the later versions of the projec
 For instance, if we want to rewatch a particular video, then we can just start of with
 package number corresponding to the video so that we don't have to start from the beginning.
 The main project would contain all feature that would make a working game.
+The purpose of this is to introduce me in how to make a rhythm game.
